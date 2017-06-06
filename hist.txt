@@ -1,0 +1,202 @@
+    1  ls
+    2  cd ダウンロード
+    3  ls
+    4  dpkg -i google-chrome-stable_current_amd64.deb 
+    5  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+    6  sudo apt-get install libappindicator1
+    7  sudo apt-get -f install 
+    8  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+    9  google-chrome > /dev/null 2>&1 &
+   10  ps -e
+   11  ps uax
+   12  ps -e
+   13  kill libappindicator1
+   14  kill -9 7152
+   15  ps -e
+   16  kill -9 4785
+   17  kill -9 5201
+   18  ps -e
+   19  kill -9 
+   20  ps uax
+   21  ls
+   22  cd ..
+   23  ls
+   24  mkdir code
+   25  cd code/
+   26  ls
+   27  mkdir sh
+   28  cd sh
+   29  git 
+   30  suo
+   31  sudo apt-get install git
+   32  git clone https://github.com/mannen0/test
+   33  cd test/
+   34  ls .
+   35  ls ..
+   36  ls
+   37  cat setup_rails.sh 
+   38  ./setup_rails.sh 
+   39  vim setup_rails.sh 
+   40  vi setup_rails.sh 
+   41  rails
+   42  rbenv
+   43  source ~/.bashrc
+   44  rbenv
+   45  vi setup_rails.sh 
+   46  rbenv
+   47  vi setup_rails.sh 
+   48  vim test.sh
+   49  vi test.sh
+   50  sudo apt-get install vim
+   51  ls
+   52  vim test.sh 
+   53  chmod +x test.sh 
+   54  ./test.sh 
+   55  vim test.sh 
+   56  mkdir ~/bin
+   57  vim test.sh 
+   58  ./test.sh 
+   59  vim test.sh 
+   60  echo $PATH
+   61  source ~/.bashrc
+   62  echo $PATH
+   63  vim ~/.bashrc
+   64  source ~/.bashrc
+   65  echo $PATH
+   66  exit
+   67  cd srd
+   68  cd code/
+   69  ls
+   70  cd sh/
+   71  ls
+   72  cd test/
+   73  ls
+   74  vim test.sh 
+   75  cat ~/.bashrc
+   76  ./test.sh 
+   77  vim test.sh 
+   78  cat ~/.bashrc
+   79  vim ~/.bashrc
+   80  exit
+   81  ls
+   82  cd co
+   83  cd code/
+   84  ls
+   85  cd sh/
+   86  ls
+   87  cd test/
+   88  ls
+   89  ./test.sh 
+   90  vim et
+   91  vim test.sh  
+   92  cat ~/.bashrc
+   93  vim test.sh 
+   94  ls
+   95  cd ..
+   96  ls
+   97  rm -r test/
+   98  rm -rf test/
+   99  git clone https://github.com/mannen0/test
+  100  ls
+  101  ll
+  102  ifconfig
+  103  ping yahoo.co.jp
+  104  ifconfig
+  105  /etc/init.d/networking restart
+  106  ifconfig
+  107  service networking restart
+  108  ifconfig
+  109  ifconfig -a
+  110  nslookup yahoo.co.jp
+  111  sudo su
+  112  vim ~/.bashrc
+  113  exity
+  114  exit
+  115  cd code/
+  116  ls
+  117  cd sh/
+  118  ls
+  119  cd test/
+  120  ls
+  121  vim test.sh 
+  122  echo $PATH
+  123  vim test.sh 
+  124  vim setup_rails.sh 
+  125  vim test.sh 
+  126  echo $PATH
+  127  ./test.sh 
+  128  vim test.sh 
+  129  ./test.sh 
+  130  vim test.sh 
+  131  vim ~/set
+  132  vim setup_rails.sh 
+  133  rbenv install 2.4.1
+  134  gem install rails
+  135  which gem
+  136  exit
+  137  echo $PATH
+  138  which gem
+  139  cd code/
+  140  ls
+  141  cd sh/
+  142  ls
+  143  cd test/
+  144  ls
+  145  vim setup_rails.sh 
+  146  vim ~/.bashrc
+  147  exit
+  148  echo $PATH
+  149  vim ~/.bashrc
+  150  cd code/
+  151  ls
+  152  cd sh/
+  153  ls
+  154  cd test/.git/
+  155  cd ..
+  156  ls
+  157  vim setup_rails.sh 
+  158  ll
+  159  cd ..
+  160  sudo su
+  161  ls
+  162  cd test/
+  163  ls
+  164  vim setup_rails.sh 
+  165  ls
+  166  vim setup_rails.sh 
+  167  ls
+  168  git remote -v
+  169  git add .
+  170  git commit -m 'update'
+  171  git config --global user.email "17mannen@nao.net.it-chiba.ac.jp"
+  172  git config --global user.name "mannen0"
+  173  git add .
+  174  git commit -m 'update'
+  175  git push -u origin master
+  176  git config --global user.email "17kajihara@nao.net.it-chiba.ac.jp"
+  177  git config --global user.name "nakamukaji"
+  178  ls
+  179  cd ..
+  180  ls
+  181  git clone https://github.com/mannen0/github
+  182  cd github/
+  183  ls
+  184  vim mknewrepo 
+  185  ls .
+  186  ls
+  187  ls .
+  188  ./mknewrepo test2
+  189  ls
+  190  cd ..
+  191  ls
+  192  rm -r github/
+  193  rm -rf github/
+  194  ls
+  195  mkdir test2
+  196  cd test
+  197  cd ..
+  198  ls
+  199  cd test2/
+  200  ls
+  201  git init
+  202  history > hist.txt
